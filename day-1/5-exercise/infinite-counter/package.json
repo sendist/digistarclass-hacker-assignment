@@ -1,0 +1,17 @@
+{
+  "name": "infinite-counter",
+  "version": "1.0.1",
+  "description": "print number infinitely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "infinite"
+  ],
+  "author": "sendi setiawan",
+  "license": "ISC",
+  "dependencies": {
+    "infinite-counter": "file:"
+  }
+}
